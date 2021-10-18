@@ -11,7 +11,7 @@ export const useQiankun = () => {
     },
     {
       name: 'reactApp',
-      entry: '//localhost:8091',
+      entry: '//localhost:3000',
       container: '#appContainer',
       activeRule: '/app2',
     }

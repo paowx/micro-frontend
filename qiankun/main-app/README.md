@@ -1,24 +1,9 @@
-# master-app
+# main-app
+# qiankun 主应用
 
-## Project setup
-```
-npm install
-```
+### 安装qiankun插件
+### 新增配置子应用的入口文件qiankun.js
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+### 修改main.js 文件：引入qiankun.js
+### 修改路由文件router/index.js  路由模式改成history模式
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
